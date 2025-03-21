@@ -1,11 +1,11 @@
-import Cart from "./components/cart.jsx";
+import CartApp from "./components/CartApp";
 
 function App() {
 
   return (
     <>
       <div>
-        <Cart />
+        <CartApp />
       </div>
 
     </>
