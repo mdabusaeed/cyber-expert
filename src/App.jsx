@@ -1,12 +1,11 @@
-import Cart from "./components/cart"
-
+import Cart from "./components/cart.jsx";
 
 function App() {
 
   return (
     <>
       <div>
-      <Cart />
+        <Cart />
       </div>
 
     </>
